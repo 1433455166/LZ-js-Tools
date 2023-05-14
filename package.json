@@ -1,0 +1,22 @@
+{
+  "name": "lz-js-tools",
+  "version": "1.0.0",
+  "description": "狼族工具包",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1433455166/LZ-js-Tools.git"
+  },
+  "keywords": [
+    "123456"
+  ],
+  "author": "贪狼",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1433455166/LZ-js-Tools/issues"
+  },
+  "homepage": "https://github.com/1433455166/LZ-js-Tools#readme"
+}
